@@ -1,3 +1,5 @@
+# Cynthia's custom copy of Recipe Box
+# Cynthia's custom copy
 # Recipe Box API
 
 A small, working Flask + SQLite API for keeping recipes. Full CRUD, clean
@@ -36,3 +38,6 @@ curl -X DELETE http://127.0.0.1:5000/recipes/1
 
 `is_public` is stored on every recipe but nothing enforces it yet - by the end
 of Unit 3, private recipes will only be visible to their owners.
+
+
+Note: This copy is customized by Cynthia.
